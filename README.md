@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenidos a esta Web
 
 You can use the [editor on GitHub](https://github.com/sdnsoporte/sdnsoporte.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,15 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Servicios
-## Arriendos
-### Compras
+# 1
+## 2
+### 3
 
 - Bulleted
 - List
 
-1. Numbered 123
-2. List a
+1. Numbered
+2. List
 
 **Bold** and _Italic_ and `Code` text
 
